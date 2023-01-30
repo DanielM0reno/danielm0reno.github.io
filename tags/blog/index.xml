@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on DanielM0reno portfolio</title>
+    <link>https://danielm0reno.github.io/tags/blog/</link>
+    <description>Recent content in Blog on DanielM0reno portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Jan 2023 16:38:27 +0100</lastBuildDate><atom:link href="https://danielm0reno.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi camino hacia el desarrollo de software</title>
+      <link>https://danielm0reno.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 30 Jan 2023 16:38:27 +0100</pubDate>
+      
+      <guid>https://danielm0reno.github.io/posts/hello-world/</guid>
+      <description>Mi camino hacia el desarrollo de software Como programador, me siento emocionado de compartir mis aptitudes y experiencia en el mundo del desarrollo de software. Mi trayectoria comenzó con un grado superior en Desarrollo de Aplicaciones Multiplataforma, donde aprendí los fundamentos de la programación y cómo construir aplicaciones en diferentes plataformas independientemente del lenguaje de programacion y su complejidad.
+Después de graduarme, decidí continuar mi formación con un grado universitario en Ingeniería informática con especialización en Sistemas de Información.</description>
+    </item>
+    
+  </channel>
+</rss>
