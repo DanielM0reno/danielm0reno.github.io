@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ciberseguridad on DanielM0reno portfolio</title>
+    <link>https://danielm0reno.github.io/tags/ciberseguridad/</link>
+    <description>Recent content in Ciberseguridad on DanielM0reno portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 Jan 2023 15:53:15 +0100</lastBuildDate><atom:link href="https://danielm0reno.github.io/tags/ciberseguridad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué sabe internet sobre ti?</title>
+      <link>https://danielm0reno.github.io/posts/31012023-quesabeinternet/</link>
+      <pubDate>Tue, 31 Jan 2023 15:53:15 +0100</pubDate>
+      
+      <guid>https://danielm0reno.github.io/posts/31012023-quesabeinternet/</guid>
+      <description>Internet puede saber una gran cantidad de información sobre cada usuario, dependiendo de la cantidad de información personal que compartan en línea. Algunos de los tipos de información que internet puede conocer sobre un usuario incluyen:
+  Identificación: nombre completo, dirección, correo electrónico, número de teléfono, fecha de nacimiento, &amp;hellip;
+  Información de navegación: historial de búsqueda, sitios web visitados, tiempo en línea, &amp;hellip;
+  Información demográfica: género, edad, ubicación geográfica, &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
