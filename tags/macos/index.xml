@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MacOs on DanielM0reno portfolio</title>
+    <link>https://danielm0reno.github.io/tags/macos/</link>
+    <description>Recent content in MacOs on DanielM0reno portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 Jan 2023 09:51:32 +0100</lastBuildDate><atom:link href="https://danielm0reno.github.io/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comandos básicos macOS 🐧🍎</title>
+      <link>https://danielm0reno.github.io/posts/comandos-macos/</link>
+      <pubDate>Tue, 31 Jan 2023 09:51:32 +0100</pubDate>
+      
+      <guid>https://danielm0reno.github.io/posts/comandos-macos/</guid>
+      <description>Si eres un usuario de Mac, es posible que ya conozcas la mayoría de las funciones y aplicaciones básicas que se incluyen con el sistema operativo. Sin embargo, hay una herramienta poderosa que muchos usuarios no conocen: los comandos de la terminal.
+La terminal es una interfaz de línea de comandos que te permite interactuar con tu Mac de una manera más avanzada. Con los comandos de terminal, puedes realizar tareas que normalmente no están disponibles en el Finder o en las aplicaciones gráficas, como mostrar archivos ocultos, copiar y mover archivos en masa, e incluso hacer que tu Mac hable.</description>
+    </item>
+    
+  </channel>
+</rss>
