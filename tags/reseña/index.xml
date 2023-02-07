@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reseña on DanielM0reno portfolio</title>
+    <link>https://danielm0reno.github.io/tags/rese%C3%B1a/</link>
+    <description>Recent content in Reseña on DanielM0reno portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Feb 2023 10:59:31 +0100</lastBuildDate><atom:link href="https://danielm0reno.github.io/tags/rese%C3%B1a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📚 Reseña-Clean Code</title>
+      <link>https://danielm0reno.github.io/posts/07022023-rescleancode/</link>
+      <pubDate>Tue, 07 Feb 2023 10:59:31 +0100</pubDate>
+      
+      <guid>https://danielm0reno.github.io/posts/07022023-rescleancode/</guid>
+      <description>El libro &amp;ldquo;Clean Code: A Handbook of Agile Software Craftsmanship&amp;rdquo; escrito por Robert C. Martin, es una guía esencial para cualquier desarrollador de software que desee escribir código legible, mantenible y eficiente. Este libro es una colección de buenas prácticas y patrones de diseño que se han probado y perfeccionado a lo largo de los años.
+El autor comienza con una introducción a la importancia de escribir código limpio y cómo esto puede afectar a la calidad del software y a la capacidad de mantenerlo en el futuro.</description>
+    </item>
+    
+  </channel>
+</rss>
